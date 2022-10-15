@@ -234,8 +234,6 @@ jobs:
           CONFIG_PACKAGE_redsocks2=y
           CONFIG_PACKAGE_rrdtool1=y
           CONFIG_PACKAGE_samba36-server=y
-          CONFIG_PACKAGE_samba4-libs=m
-          CONFIG_PACKAGE_samba4-server=m
           CONFIG_PACKAGE_script-utils=y
           CONFIG_PACKAGE_tar=y
           CONFIG_PACKAGE_taskd=y
