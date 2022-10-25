@@ -165,6 +165,8 @@ jobs:
           CONFIG_PACKAGE_luci-app-mwan3helper=y
           CONFIG_PACKAGE_luci-app-netdata=y
           CONFIG_PACKAGE_luci-app-ntpc=y
+          CONFIG_PACKAGE_luci-i18n-docker-zh-cn=y
+          CONFIG_PACKAGE_luci-i18n-dockerman-zh-cn=y
           CONFIG_PACKAGE_luci-app-passwall=y
           CONFIG_PACKAGE_luci-app-passwall_INCLUDE_Brook=y
           CONFIG_PACKAGE_luci-app-passwall_INCLUDE_ChinaDNS_NG=y
